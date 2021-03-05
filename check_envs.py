@@ -1,5 +1,5 @@
 import gym
-import gym_simplecontmountaincar
+import openaigym_additional_envs
 env = gym.make('SimpleContMountainCar-v0')
 env.reset()
 print(env.step(env.action_space.sample()))

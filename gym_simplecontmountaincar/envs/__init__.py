@@ -1,2 +1,0 @@
-from gym_simplecontmountaincar.envs.simplecontmountaincar import SimpleMountainCar
-from gym_simplecontmountaincar.envs.contcartpole import ContCartPoleEnv
